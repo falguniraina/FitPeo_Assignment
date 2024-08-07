@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/falguniraina/FitPeo_Assignment/static/css/main.be73386f.css",
-    "main.js": "/falguniraina/FitPeo_Assignment/static/js/main.b3be52f4.js",
-    "static/media/man1.jpg": "/falguniraina/FitPeo_Assignment/static/media/man1.3dd141c3adbcf39bba23.jpg",
-    "static/media/women1.jpg": "/falguniraina/FitPeo_Assignment/static/media/women1.a3b23510372782414bf3.jpg",
-    "index.html": "/falguniraina/FitPeo_Assignment/index.html",
-    "main.be73386f.css.map": "/falguniraina/FitPeo_Assignment/static/css/main.be73386f.css.map",
-    "main.b3be52f4.js.map": "/falguniraina/FitPeo_Assignment/static/js/main.b3be52f4.js.map"
+    "main.css": "/FitPeo_Assignment/static/css/main.be73386f.css",
+    "main.js": "/FitPeo_Assignment/static/js/main.f14cec23.js",
+    "static/media/man1.jpg": "/FitPeo_Assignment/static/media/man1.3dd141c3adbcf39bba23.jpg",
+    "static/media/women1.jpg": "/FitPeo_Assignment/static/media/women1.a3b23510372782414bf3.jpg",
+    "index.html": "/FitPeo_Assignment/index.html",
+    "main.be73386f.css.map": "/FitPeo_Assignment/static/css/main.be73386f.css.map",
+    "main.f14cec23.js.map": "/FitPeo_Assignment/static/js/main.f14cec23.js.map"
   },
   "entrypoints": [
     "static/css/main.be73386f.css",
-    "static/js/main.b3be52f4.js"
+    "static/js/main.f14cec23.js"
   ]
 }
