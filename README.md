@@ -13,6 +13,11 @@ Assignment UI: https://bit.ly/fitpeo-webAssignment
 Assignment Submission: 
 
 You can share the assignment link by uploading the completed assignment to any of the free deployment services like Vercel, Firebase, Netlify GitHub Pages, Heroku, Surge Render, and GitLab Pages. 
+# Getting Started with This APP
+1. Git clone
+2. npm i
+3. npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
