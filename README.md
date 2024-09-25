@@ -18,6 +18,8 @@ You can share the assignment link by uploading the completed assignment to any o
 2. npm i
 3. npm start
 
+   URL : https://falguniraina.github.io/FitPeo_Assignment/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
